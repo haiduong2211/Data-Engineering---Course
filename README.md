@@ -16,4 +16,4 @@ This repository contains code and materials from the Data Engineering course off
 
 ## Certifications:
 - Funix Certifications for Completing Subjects
-- AWS Cloud Practitioner Foundation Certification
+- AWS Cloud Practitioner Foundation Certification [Verify Link](https://cp.certmetrics.com/amazon/en/public/verify/credential/84869a903e08488485ab9e27a802d41c)
