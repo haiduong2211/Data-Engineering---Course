@@ -1,6 +1,7 @@
 # Data Engineering Course from Funix
 
-This repository contains code and materials from the Data Engineering course offered by Funix. For demonstration purposes, this folder includes only the code and certifications related to my involvement in the course.
+This repository contains code and materials from the Data Engineering Course that I've learned at Funix.
+For demonstration purposes, this folder includes only the code and certifications related to my involvement in the course.
 
 ## The course includes the following subjects:
 - PYB101 - Python 101
@@ -15,5 +16,6 @@ This repository contains code and materials from the Data Engineering course off
 > **Note:** Exercises from DEP304 were conducted directly on the AWS console.
 
 ## Certifications:
-- Funix Certifications for Completing Subjects
+- Funix Certifications for Completing Subjects and Course.
+> **Note:** Certifications are conducted the **0.Certificates** folder
 - AWS Cloud Practitioner Foundation Certification [Verify Link](https://cp.certmetrics.com/amazon/en/public/verify/credential/84869a903e08488485ab9e27a802d41c)
