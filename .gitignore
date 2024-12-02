@@ -1,6 +1,7 @@
 # Ignore log files
 *.log
 .DS_Store
+.gitignore
 
 # Ignore node_modules directory
 node_modules/
